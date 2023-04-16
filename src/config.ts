@@ -3,18 +3,18 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://kadoppe.com/",
   author: "Kohei Kadowaki (kadoppe)",
-  desc: "This is kadoppe's personal site.",
-  title: "kadoppe",
-  ogImage: "astropaper-og.jpg",
+  desc: "kadoppe's blog and personal site",
+  title: "kadoppe.com",
+  ogImage: "ogp.png",
   lightAndDarkMode: false,
   postPerPage: 5,
 };
 
 export const LOGO_IMAGE = {
-  enable: false,
+  enable: true,
   svg: true,
-  width: 216,
-  height: 46,
+  width: 36,
+  height: 36,
 };
 
 export const SOCIALS: SocialObjects = [
