@@ -6,7 +6,7 @@ export const SITE: Site = {
   desc: "kadoppe's blog and personal site",
   title: "kadoppe.com",
   ogImage: "ogp.png",
-  lightAndDarkMode: false,
+  lightAndDarkMode: true,
   postPerPage: 5,
 };
 
