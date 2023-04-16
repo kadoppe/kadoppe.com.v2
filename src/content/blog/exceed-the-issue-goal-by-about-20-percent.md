@@ -1,5 +1,5 @@
 ---
-title: Issueのゴールを20%くらいは超えていく
+title: Issueのゴールを20％くらいは超えていく
 author: kadoppe
 pubDatetime: 2018-02-19T15:00:00.000Z
 description: ゴールを勝手に20％くらいは高く見積もった上で Issue に取り組むといいよ、という話。
