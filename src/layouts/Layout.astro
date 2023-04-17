@@ -29,6 +29,22 @@ const socialImageURL = new URL(
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <!-- Google Analytics -->
+    <script
+      type="text/partytown"
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-CTVB3DHBT2"
+    ></script>
+    <script type="type/partytown">
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-CTVB3DHBT2");
+    </script>
+
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -62,6 +78,9 @@ const socialImageURL = new URL(
       rel="stylesheet"
     />
 
+    <!-- Sitemap -->
+    <link rel="sitemap" href="/sitemap-index.xml" />
+
     {
       // If PUBLIC_GOOGLE_SITE_VERIFICATION is set in the environment variable,
       // include google-site-verification tag in the heading
@@ -73,24 +92,9 @@ const socialImageURL = new URL(
         />
       )
     }
+    <script is:inline src="/toggle-theme.js"></script></head
+  >
 
-    <script is:inline src="/toggle-theme.js"></script>
-
-    <script
-      type="text/partytown"
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-CTVB3DHBT2"
-    ></script>
-    <script type="type/partytown">
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
-
-      gtag("config", "G-CTVB3DHBT2");
-    </script>
-  </head>
   <body>
     <slot />
   </body>
