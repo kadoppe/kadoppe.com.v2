@@ -3,14 +3,36 @@
 _inputs:
   title:
     type: text
-    comment: kadoppe.com
-    
+    label: 'Title'
+  pubDatetime:
+    type: datetime
+    label: 'Date Posted'
+  description:
+    type: text
+    label: 'Description'
+  postSlug:
+    type: text
+    label: 'Slug'
+  tags:
+    type: array
+    label: 'Tags'
+  featured:
+    type: boolean
+    label: 'Featured'
+  draft:
+    type: boolean
+    label: 'Draft'
+  ogImage:
+    type: image
+    label: 'OG Image'
+
 # Collections are related sets of content files, typically grouped by folder.
 # Here you can define your collections, as well as any
 # CloudCannon configuration specific to those collections.
-collections_config: 
+collections_config:
   posts:
-    path: 'content/blog' 
+    path: 'content/blog'
+    parser: 'front-matter'
 
 # Control which collections are displayed in the CloudCannon site navigation,
 # and how those collections are grouped.
