@@ -51,7 +51,7 @@ paths:
   collections: ''
   layouts: null
   static: ''
-  uploads: uploads
+  uploads: public
 
 # Lets you control the look and behaviour of the Source Editor.
 source_editor:
