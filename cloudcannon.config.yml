@@ -17,11 +17,11 @@ _inputs:
     type: array
     label: 'Tags'
   featured:
-    type: boolean
+    type: switch
     label: 'Featured'
   draft:
-    type: boolean
-    label: 'Draft'
+    type: switch
+    switch label: 'Draft'
   ogImage:
     type: image
     label: 'OG Image'
