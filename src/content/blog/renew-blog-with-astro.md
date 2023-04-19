@@ -1,7 +1,7 @@
 ---
 title: ブログをAstroを使ってリニューアルしました
 author: kadoppe
-pubDatetime: 2023-04-18T15:00:00.000Z
+pubDatetime: 2023-04-19T15:00:00.000Z
 description: 背景や使用したツール・ライブラリなどについて
 postSlug: renew-blog-with-astro
 tags:
