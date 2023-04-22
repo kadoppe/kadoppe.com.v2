@@ -60,6 +60,9 @@ Google Analytics でユーザーのトラッキングがしたかったのです
 
 こんな感じに、ブログの Astro への移行は完了しました。サクサク動くし、見た目もいいし、とても気に入っています。
 
+コードは以下のリポジトリで管理しています。
+[kadoppe/kadoppe.com.v2](https://github.com/kadoppe/kadoppe.com.v2)
+
 今後やりたいこととしては、以下のような感じです。
 
 - 楽にブログ記事を編集できるように CMS を導入したい（[TinaCMS](https://tina.io/) か [CloudCannon](https://cloudcannon.com/) といった Git-based な CMS）
