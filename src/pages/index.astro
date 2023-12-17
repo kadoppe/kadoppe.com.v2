@@ -37,12 +37,11 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           ></path><path
             d="M12 20.001h2C14 14.486 9.514 10 4 10v2c4.411 0 8 3.589 8 8.001z"
           ></path><circle cx="6" cy="18" r="2"></circle>
-        </svg>
+        </svg
       </a>
 
       <p>
-        My name is Kohei Kadowaki, and please call me kadoppe. I'm a software
-        engineer in Japan. This site is my blog and personal site.
+        Software Enginneer
       </p>
       {
         // only display if at least one social link is enabled
@@ -129,7 +128,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     @apply my-2;
   }
   .social-wrapper {
-    @apply mt-4 flex flex-col sm:flex-row sm:items-center;
+    @apply mt-4 flex flex-col sm:flex-row;
   }
   .social-links {
     @apply mb-1 mr-2 whitespace-nowrap sm:mb-0;
