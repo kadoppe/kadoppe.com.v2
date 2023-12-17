@@ -5,17 +5,24 @@ import postOgImage from "./og-templates/post";
 import siteOgImage from "./og-templates/site";
 
 const fetchFonts = async () => {
-  // Regular Font
-  const fontFileRegular = await fetch(
-    "https://www.1001fonts.com/download/font/ibm-plex-mono.regular.ttf"
-  );
-  const fontRegular: ArrayBuffer = await fontFileRegular.arrayBuffer();
+  const headers = {
+    "User-Agent":
+      "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; de-at) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1",
+  };
+  const baseFontUrl = "https://fonts.googleapis.com/css2?family=Noto+Sans+JP";
+  const regexp = /src: url\((.+)\) format\('(opentype|truetype)'\)/;
 
-  // Bold Font
-  const fontFileBold = await fetch(
-    "https://www.1001fonts.com/download/font/ibm-plex-mono.bold.ttf"
-  );
-  const fontBold: ArrayBuffer = await fontFileBold.arrayBuffer();
+  const fetchFontData = async (weight: number) => {
+    const regularFontUrl = `${baseFontUrl}:wght@${weight}`;
+    const css = await (await fetch(regularFontUrl, { headers })).text();
+    const resource = css.match(regexp);
+
+    if (!resource) return new ArrayBuffer(0);
+    return await fetch(resource[1]).then(res => res.arrayBuffer());
+  };
+
+  const fontRegular = await fetchFontData(400);
+  const fontBold = await fetchFontData(700);
 
   return { fontRegular, fontBold };
 };
@@ -28,19 +35,31 @@ const options: SatoriOptions = {
   embedFont: true,
   fonts: [
     {
-      name: "IBM Plex Mono",
-      data: fontRegular,
-      weight: 400,
-      style: "normal",
-    },
-    {
-      name: "IBM Plex Mono",
+      name: "Noto Sans JP",
       data: fontBold,
       weight: 600,
       style: "normal",
     },
   ],
 };
+
+if (fontRegular) {
+  options.fonts.push({
+    name: "Noto Sans JP",
+    data: fontRegular,
+    weight: 400,
+    style: "normal",
+  });
+}
+
+if (fontBold) {
+  options.fonts.push({
+    name: "Noto Sans JP",
+    data: fontBold,
+    weight: 700,
+    style: "normal",
+  });
+}
 
 function svgBufferToPngBuffer(svg: string) {
   const resvg = new Resvg(svg);
