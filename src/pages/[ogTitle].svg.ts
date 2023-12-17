@@ -1,9 +1,9 @@
 import { getCollection } from "astro:content";
-import generateOgImage from "@utils/generateOgImage";
+import generateOgImageForPost from "@utils/generateOgImages";
 import type { APIRoute } from "astro";
 
 export const get: APIRoute = async ({ params }) => ({
-  body: await generateOgImage(params.ogTitle),
+  body: await generateOgImageForPost(params.ogTitle),
 });
 
 const postImportResult = await getCollection("blog", ({ data }) => !data.draft);
