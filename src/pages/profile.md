@@ -7,6 +7,10 @@ title: "Profile"
 
 Software Engineer / CTO at [WE UP Inc.](https://corp.weup.jp/)
 
+<div>
+    <img src="/assets/logo.png" alt="kadoppe logo"/>
+</div>
+
 ## 経歴
 
 - 2022/08 - 現在: 株式会社WE UP 取締役CTO
