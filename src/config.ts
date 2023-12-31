@@ -21,21 +21,27 @@ export const LOGO_IMAGE = {
 
 export const SOCIALS: SocialObjects = [
   {
-    name: "Github",
-    href: "https://github.com/kadoppe",
-    linkTitle: ` ${SITE.title} on Github`,
-    active: true,
-  },
-  {
     name: "Twitter",
     href: "https://twitter.com/kadoppe",
     linkTitle: `${SITE.title} on Twitter`,
     active: true,
   },
   {
+    name: "Sizume",
+    href: "https://sizu.me/kadoppe",
+    linkTitle: `${SITE.title} on Sizu.me`,
+    active: true,
+  },
+  {
     name: "Mastodon",
     href: "https://mastodon.social/@kadoppe",
     linkTitle: `${SITE.title} on Mastodon`,
+    active: true,
+  },
+  {
+    name: "Github",
+    href: "https://github.com/kadoppe",
+    linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
   {
