@@ -5,7 +5,7 @@ title: "About"
 
 ## Kohei Kadowaki (kadoppe)
 
-Software Engineer / CTO at [WE UP Inc.](https://corp.weup.jp/)
+Software Engineer / CTO at [WE UP Inc.](https://corp.weup.jp/) in Tokyo, Japan.
 
 ## My Tech Stack
 
