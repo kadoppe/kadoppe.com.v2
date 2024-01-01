@@ -9,6 +9,7 @@ module.exports = {
     ecmaVersion: "latest",
     sourceType: "module",
   },
+  parser: "@typescript-eslint/parser",
   overrides: [
     {
       files: ["*.astro"],
