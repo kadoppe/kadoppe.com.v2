@@ -1,15 +1,15 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "Profile"
+title: "About"
 ---
 
 ## Kohei Kadowaki (kadoppe)
 
 Software Engineer / CTO at [WE UP Inc.](https://corp.weup.jp/)
 
-<div>
-    <img src="/assets/logo.png" alt="kadoppe logo"/>
-</div>
+## My Tech Stack
+
+(WIP)
 
 ## 経歴
 
@@ -23,14 +23,10 @@ Software Engineer / CTO at [WE UP Inc.](https://corp.weup.jp/)
   - 株式会社シェアウィズ 共同創業者兼CTO
 - 2010/04 - 2011/08
   - 有限会社エイプ Software Engineer
-- 2007/04 - 2009/03
-  - 同志社大学大学院 工学研究科知識工学専攻
-- 2003/04 - 2007/03
-  - 同志社大学 工学部知識工学科
 
 ## SNS
 
 - [X](https://x.com/kadoppe)
 - [GitHub](https://github.com/kadoppe)
 - [Mastodon](https://mastodon.social/@kadoppe)
-- [Bluesky](https://bsky.app/profile/kadoppe.com)
+- [Bluesky](https://bsky.app/about/kadoppe.com)
