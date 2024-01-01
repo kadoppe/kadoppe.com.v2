@@ -5,10 +5,11 @@ export interface Props {
   ariaLabel?: string;
   title?: string;
   disabled?: boolean;
-  targetBlank? :boolean;
+  targetBlank?: boolean;
+  rel?: string;
 }
 
-const { href, className, ariaLabel, title, disabled = false, targetBlank = false } = Astro.props;
+const { href, className, ariaLabel, title, rel, disabled = false, targetBlank = false } = Astro.props;
 ---
 
 <a
@@ -19,6 +20,7 @@ const { href, className, ariaLabel, title, disabled = false, targetBlank = false
   title={title}
   aria-disabled={disabled}
   target={targetBlank ? "_blank" : "_self"}
+  rel={rel}
 >
   <slot />
 </a>
