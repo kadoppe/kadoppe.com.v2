@@ -1,7 +1,7 @@
 ---
 title: 2023年の振り返り
 author: kadoppe
-pubDatetime: 2023-12-31T10:11:00.000Z
+pubDatetime: 2023-12-30T10:11:00.000Z
 description: 2023年ももうすぐ終わりなので、この1年間を思い出しながら振り返ってみる。
 postSlug: 2023-yearly-retrospective
 tags:
