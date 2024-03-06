@@ -18,18 +18,21 @@ Software Engineer / CTO at [WE UP Inc.](https://corp.weup.jp/) in Tokyo, Japan.
 
 #### 得意なこと 🙆
 
-- エンジニア組織設計、ソフトウェアアーキテクチャ設計、コーディング、不具合修正・障害対応、チームビルディング、新しいスキル・知識の獲得、エンジニア採用
+- エンジニア組織マネージメント、アーキテクチャ設計、コーディング、不具合修正・障害対応、問題解決、チームビルディング、新しいスキル・知識の獲得、エンジニア採用
 
 ## Media
 
 - Blog
   - このサイトです。ソフトウェアエンジニアリングやビジネスなど、日々の仕事や生活のなかでの気付きや感じたこと、学んだことを書いています。
-- Dialy
+- Diary
   - [しずかなインターネット](https://sizu.me/kadoppe/posts/t8bv0if81245)を使っています。不定期（毎日目標）でその日の気づきや感じたことを気軽に書いています。
+- Podcast
+  - [人見知りプロダクト開発ラジオ](https://open.spotify.com/show/6teDTilmJzIkms5A0hT49U?si=66edd3b316e54d9c)
+    - [kantarock](https://x.com/kantarock) さんと二人で、人見知りとプロダクト開発をテーマにゆるくお話しています。
 
 ## SNS
 
-これまで主に X(Twitter) を使っていましたが、他に安心して使えるSNSがないか探しています。日ごとにメインでつかうSNSを変えています。
+これまで主に X(Twitter) を使っていましたが、他に安心して使えるSNSがないか探しています
 
 - [X](https://x.com/kadoppe)
 - [GitHub](https://github.com/kadoppe)
