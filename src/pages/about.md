@@ -7,32 +7,17 @@ title: "About"
 
 Software Engineer / CTO at [WE UP Inc.](https://corp.weup.jp/) in Tokyo, Japan.
 
-20代はエンジニアリング中心に、30代は組織マネージメントやチームビルディング、エンジニア採用まで幅を広げ、会社のミッション達成や事業の成長、プロダクト価値の追求に必要な様々なことに挑戦し、これまで取り組んできました。
-
-スタートアップの起業・経営経験があり、不確実性の高い環境でのプロダクト開発が得意です。大企業でのシステム開発経験もあり、明確な答えがない状況の中で、攻めと守り / エンジニアリングとビジネスの両方の視点から、バランスの取れた意思決定と課題解決の推進ができることが強みです。
-
-#### やりたいこと 🌟
-
-- 「エンジニアリング」「ビジネス」「チーミング」の３つ力を上手くかけ合わせることで、より良いプロダクトを生み出し続け、ユーザーの皆さんや仲間たち、そして自分自身の人生を少しでも幸せに豊かにすること
-- そのために必要なスキルや経験を獲得しながら、常に成長しつづけること
-
-#### 得意なこと 🙆
-
-- エンジニア組織マネージメント、アーキテクチャ設計、コーディング、不具合修正・障害対応、問題解決、チームビルディング、新しいスキル・知識の獲得、エンジニア採用
-
 ## Media
 
 - Blog
-  - このサイトです。ソフトウェアエンジニアリングやビジネスなど、日々の仕事や生活のなかでの気付きや感じたこと、学んだことを書いています。
+  - ソフトウェアエンジニアリングやビジネスなど、日々の仕事や生活のなかでの気付きや感じたこと、学んだことを書いています。
 - Diary
-  - [しずかなインターネット](https://sizu.me/kadoppe/posts/t8bv0if81245)を使っています。不定期（毎日目標）でその日の気づきや感じたことを気軽に書いています。
+  - [しずかなインターネット](https://sizu.me/kadoppe/posts/t8bv0if81245)を使っています。不定期でその日の気づきや感じたことを気軽に書いています。
 - Podcast
   - [人見知りプロダクト開発ラジオ](https://open.spotify.com/show/6teDTilmJzIkms5A0hT49U?si=66edd3b316e54d9c)
     - [kantarock](https://x.com/kantarock) さんと二人で、人見知りとプロダクト開発をテーマにゆるくお話しています。
 
 ## SNS
-
-これまで主に X(Twitter) を使っていましたが、他に安心して使えるSNSがないか探しています
 
 - [X](https://x.com/kadoppe)
 - [GitHub](https://github.com/kadoppe)
@@ -42,7 +27,7 @@ Software Engineer / CTO at [WE UP Inc.](https://corp.weup.jp/) in Tokyo, Japan.
 
 ## My Tech Stack
 
-JavaScript, TypeScript, Node.js, Golang, Ruby on Rails, PHP, Java, React, Vue.js
+JavaScript, TypeScript, React, Vue.js, Node.js, Golang, Ruby on Rails, PHP, Java, Python
 
 ## 経歴
 
