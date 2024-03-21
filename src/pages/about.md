@@ -10,9 +10,9 @@ Software Engineer / CTO at [WE UP Inc.](https://corp.weup.jp/) in Tokyo, Japan.
 ## Media
 
 - Blog
-  - ソフトウェアエンジニアリングやビジネスなど、日々の仕事や生活のなかでの気付きや感じたこと、学んだことを書いています。
+  - 日々の仕事や生活のなかでの気付きや感じたこと、学んだことを書いています。
 - Diary
-  - [しずかなインターネット](https://sizu.me/kadoppe/posts/t8bv0if81245)を使っています。不定期でその日の気づきや感じたことを気軽に書いています。
+  - [しずかなインターネット](https://sizu.me/kadoppe/posts/t8bv0if81245)を使っています。不定期でその日に感じたことを気軽に書いています。
 - Podcast
   - [人見知りプロダクト開発ラジオ](https://open.spotify.com/show/6teDTilmJzIkms5A0hT49U?si=66edd3b316e54d9c)
     - [kantarock](https://x.com/kantarock) さんと二人で、人見知りとプロダクト開発をテーマにゆるくお話しています。
@@ -24,10 +24,6 @@ Software Engineer / CTO at [WE UP Inc.](https://corp.weup.jp/) in Tokyo, Japan.
 - [Mastodon](https://mastodon.social/@kadoppe)
 - [Bluesky](https://bsky.app/about/kadoppe.com)
 - Nostr: npub18990uwgh9ze7nwzlr4cnlkzue2n6gw94m9mn6e35xgjhf7m0jjaqmvzp43
-
-## My Tech Stack
-
-JavaScript, TypeScript, React, Vue.js, Node.js, Golang, Ruby on Rails, PHP, Java, Python
 
 ## 経歴
 
