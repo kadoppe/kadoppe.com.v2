@@ -16,7 +16,7 @@ tags:
   - Apple の「ショートカット」アプリやRaycastを組み合わせて、いつでもどこでもToDoやアイデアをサクッと記録できるようにしてる
   - Notion AI は使ってない
 - [Raycast](https://www.raycast.com/)
-  - Pro ($10 / month) + GPT-4 ($10 / month)
+  - Pro ($10 / month) + Raycast AI で GPT-4 を使うためのPlan ($10 / month)
   - macOS 上におけるほとんどすべての操作の起点
   - Raycast AIがLLMのインタフェースとして素晴らしい。思いついたらすぐLLMと会話できるのでとても便利
   - 機能開発が活発で進化のスピードも速いので使っていてワクワクする
