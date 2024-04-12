@@ -23,7 +23,6 @@ Software Engineer / CTO at [WE UP Inc.](https://corp.weup.jp/) in Tokyo, Japan.
 - [GitHub](https://github.com/kadoppe)
 - [Mastodon](https://mastodon.social/@kadoppe)
 - [Bluesky](https://bsky.app/about/kadoppe.com)
-- Nostr: npub18990uwgh9ze7nwzlr4cnlkzue2n6gw94m9mn6e35xgjhf7m0jjaqmvzp43
 
 ## 経歴
 
