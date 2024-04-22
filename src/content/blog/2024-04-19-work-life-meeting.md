@@ -1,9 +1,9 @@
 ---
-title: 「WORK/LIFE MEETING」というイベントで話す機会をいただきました
+title: 「WORK/LIFE MEETING」というイベントにスピーカーとして参加しました
 author: kadoppe
 pubDatetime: 2024-04-23T10:11:00.000Z
 description: 2024年4月19日に下北沢のBONUS TRACKで開催された「WORK/LIFE MEETING」というイベントで話す機会をいただきました。
-postSlug: 2024-03-23-my-continuous-paid-software-products-2024
+postSlug: 2024-04-23-work-life-meeting
 tags:
   - work
   - life
@@ -16,7 +16,7 @@ tags:
 
 「WORK/LIFE MEETING」は[BONUS TRACK](https://bonus-track.net/)で働く人や、BONUS TRACKの運営に関わっている人が、自分の「働く」と「暮らす」について5分間のプレゼンをする、毎月開催されているイベント。
 
-僕は2023年の9月頃から、BONUS TRACK の施設内で運営されている [BONUS TRACK MEMBER'S](https://members.bonus-track.net/) というコワーキングスペースにお世話になっている。フルタイム会員で365日、24時間コワーキングスペースを利用することができる。すごくゆっくりした時間が流れていて、自然が周りにたくさんあって、素敵な人達がたくさんいらっしゃることもあり、自分はほぼ毎日入り浸っている。そのご縁があって、今回お声がけいただいた。ありがとうございました。
+僕は2023年の9月頃から、BONUS TRACK の施設内で運営されている [BONUS TRACK MEMBER'S](https://members.bonus-track.net/) というコワーキングスペースにお世話になっている。フルタイム会員の契約をしているので、365日、24時間コワーキングスペースを利用することができる。すごくゆっくりした時間が流れていて、自然が周りにたくさんあって、素敵な人達がたくさんいらっしゃることもあり、自分はほぼ毎日入り浸っている。そのご縁があって、今回お声がけいただいた。
 
 「働く」と「暮らす」というテーマで、自分のことを他の誰かに話すことはめったにない。イベントやカンファレンスで登壇する経験はそれなりの回数経験してきたけど、ソフトウェアエンジニアやWeb業界、プロダクト開発に関わっている人に話すことが大半だった。
 
