@@ -55,7 +55,7 @@ tags:
 最後に、そういう気持ちを忘れそうになったときによく見る動画を紹介してプレゼンを終えた。何度見ても元気が出る動画。見たことない人はぜひ見てほしいなって思います。
 
 <div class="videoWrapper">
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/MGt25mv4-2Q?si=86AqNLk1YyH_ZEYr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MGt25mv4-2Q?si=86AqNLk1YyH_ZEYr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 繰り返しになるけど、自分が何を中心に働き、何を中心に暮らしているのか、それは何故で、どういう過程を経てそうなったのかについて、改めて考えることができる貴重な機会だった。お声がけいただいた、運営の方に感謝します。ありがとうございました。
