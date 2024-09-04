@@ -11,8 +11,6 @@ Software Engineer / CTO at [WE UP Inc.](https://corp.weup.jp/) in Tokyo, Japan.
 
 - Blog
   - 日々の仕事や生活のなかでの気付きや感じたこと、学んだことを書いています。
-- Diary
-  - [しずかなインターネット](https://sizu.me/kadoppe/posts/t8bv0if81245)を使っています。不定期でその日に感じたことを気軽に書いています。
 - Podcast
   - [人見知りプロダクト開発ラジオ](https://open.spotify.com/show/6teDTilmJzIkms5A0hT49U?si=66edd3b316e54d9c)
     - [kantarock](https://x.com/kantarock) さんと二人で、人見知りとプロダクト開発をテーマにゆるくお話しています。
@@ -21,8 +19,6 @@ Software Engineer / CTO at [WE UP Inc.](https://corp.weup.jp/) in Tokyo, Japan.
 
 - [X](https://x.com/kadoppe)
 - [GitHub](https://github.com/kadoppe)
-- [Mastodon](https://mastodon.social/@kadoppe)
-- [Bluesky](https://bsky.app/about/kadoppe.com)
 
 ## 経歴
 

@@ -30,13 +30,13 @@ export const SOCIALS: SocialObjects = [
     name: "Sizume",
     href: "https://sizu.me/kadoppe",
     linkTitle: `${SITE.title} on Sizu.me`,
-    active: true,
+    active: false,
   },
   {
     name: "Mastodon",
     href: "https://mastodon.social/@kadoppe",
     linkTitle: `${SITE.title} on Mastodon`,
-    active: true,
+    active: false,
   },
   {
     name: "Github",
