@@ -90,5 +90,10 @@ const socialImageURL = new URL(
   </head>
   <body>
     <slot />
+    <script>
+      document.addEventListener('astro:page-load', () => {
+        krt('view')
+      });
+    </script>
   </body>
 </html>
