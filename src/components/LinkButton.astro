@@ -1,15 +1,23 @@
 ---
 export interface Props {
-  href: string;
-  className?: string;
-  ariaLabel?: string;
-  title?: string;
-  disabled?: boolean;
-  targetBlank?: boolean;
-  rel?: string;
+	href: string;
+	className?: string;
+	ariaLabel?: string;
+	title?: string;
+	disabled?: boolean;
+	targetBlank?: boolean;
+	rel?: string;
 }
 
-const { href, className, ariaLabel, title, rel, disabled = false, targetBlank = false } = Astro.props;
+const {
+	href,
+	className,
+	ariaLabel,
+	title,
+	rel,
+	disabled = false,
+	targetBlank = false,
+} = Astro.props;
 ---
 
 <a

@@ -6,24 +6,24 @@ import { ViewTransitions } from "astro:transitions";
 const googleSiteVerification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
 
 export interface Props {
-  title?: string;
-  author?: string;
-  description?: string;
-  ogImage?: string;
-  canonicalURL?: string;
+	title?: string;
+	author?: string;
+	description?: string;
+	ogImage?: string;
+	canonicalURL?: string;
 }
 
 const {
-  title = SITE.title,
-  author = SITE.author,
-  description = SITE.desc,
-  ogImage = SITE.ogImage,
-  canonicalURL = new URL(Astro.url.pathname, Astro.site).href,
+	title = SITE.title,
+	author = SITE.author,
+	description = SITE.desc,
+	ogImage = SITE.ogImage,
+	canonicalURL = new URL(Astro.url.pathname, Astro.site).href,
 } = Astro.props;
 
 const socialImageURL = new URL(
-  ogImage ?? SITE.ogImage ?? "og.png",
-  Astro.url.origin
+	ogImage ?? SITE.ogImage ?? "og.png",
+	Astro.url.origin,
 ).href;
 ---
 
