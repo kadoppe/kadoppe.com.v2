@@ -9,11 +9,10 @@
 		"preview": "astro preview",
 		"sync": "astro sync",
 		"astro": "astro",
-		"format:check": "prettier --plugin-search-dir=. --check .",
-		"format": "prettier --plugin-search-dir=. --write .",
+		"format": "biome format --write .",
 		"cz": "cz",
 		"prepare": "husky install",
-		"lint": "eslint ."
+		"lint": "biome lint --write ."
 	},
 	"dependencies": {
 		"@astrojs/check": "0.9.3",
