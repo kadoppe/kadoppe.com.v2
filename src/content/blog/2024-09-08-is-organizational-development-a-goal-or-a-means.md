@@ -14,7 +14,7 @@ tags:
 
 仕事で一度 Biome を導入したことがあって、必要な設定が少なく、実行速度が速くく、一つのツールで全部まかなえるというところが体験的にすごく良かったので。
 
-この個人サイトは Astro で作られているのだけど、 Biome は .astro ファイルも[[部分的にサポートしている](https://biomejs.dev/internals/language-support/#html-super-languages-support)とのこと。
+この個人サイトは [Astro](https://astro.build/) で作られているのだけど、 Biome は .astro ファイルも[[部分的にサポートしている](https://biomejs.dev/internals/language-support/#html-super-languages-support)とのこと。
 
 Biome の設定ファイル（biome.json）は以下のような内容にした。ほぼデフォルトの設定だけど、`vcs` セクションで Git で ignore されているファイルは Biome でも無視するように設定している。
 
