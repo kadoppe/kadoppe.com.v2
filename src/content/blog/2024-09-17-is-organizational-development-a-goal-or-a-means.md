@@ -5,7 +5,7 @@ pubDatetime: 2024-09-17T12:31:00.000Z
 description: 仕事で何かを書いたり作ったりした時に、意見のもらい方として気をつけていることについて書く。意見のやりとりの時間をできるだけ有意義なものにするために。
 postSlug: 2024-09-17-requesting-feedback-at-work
 tags:
-  - management
+  - work
   - team
 ---
 
