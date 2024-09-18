@@ -25,6 +25,6 @@ tags:
 
 うまくいかない状況だからこそ、ネガティブすぎる感情や人間関係に起因する問題が目につくようになる。あたかもその問題が自分たちうまくいかない根本原因だと思い込んでしまう。そして、そういう問題の分析や解決のための思考と議論に時間を使いまくって、そもそもの目的だった事業やプロダクトのことに全然頭を使えていない状況が発生しているのを、これまでの人生の中で何度か見てきた。自分がその罠にハマってたこともある。
 
-それは時間の使い方としてもったいないし、やりたくない。柱となる事業やプロダクトを作ること、それらがうまく行くことに主眼を置いて、なるべくそこにたくさんの時間とパワーを使っていこう。
+それは時間の使い方としてもったいないし、やりたくない。柱となる事業やプロダクトを作ること、それらがうまく行くことに主眼を置いて、なるべくそこにたくさんの時間とパワーを使っていこう。それが何もよりも強固な拠り所になるから。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">テンションの上がらねえことに<br>パワー使ってる場合じゃねえ……！<a href="https://twitter.com/hashtag/%E5%AE%87%E5%AE%99%E5%85%84%E5%BC%9F%E3%81%AE%E3%81%93%E3%81%A8%E3%81%B0?src=hash&amp;ref_src=twsrc%5Etfw">#宇宙兄弟のことば</a> <a href="https://t.co/3Sju0lYBig">pic.twitter.com/3Sju0lYBig</a></p>&mdash; 宇宙兄弟【公式】🚀 (@uchu_kyodai) <a href="https://twitter.com/uchu_kyodai/status/1758612247704953270?ref_src=twsrc%5Etfw">February 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
