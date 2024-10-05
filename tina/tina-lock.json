@@ -52,6 +52,15 @@
 						"uid": false
 					},
 					{
+						"type": "string",
+						"label": "Slug",
+						"name": "postSlug",
+						"required": true,
+						"namespace": ["post", "postSlug"],
+						"searchable": true,
+						"uid": false
+					},
+					{
 						"name": "draft",
 						"label": "Draft",
 						"type": "boolean",
@@ -964,6 +973,18 @@
 					},
 					{
 						"kind": "FieldDefinition",
+						"name": { "kind": "Name", "value": "postSlug" },
+						"arguments": [],
+						"type": {
+							"kind": "NonNullType",
+							"type": {
+								"kind": "NamedType",
+								"name": { "kind": "Name", "value": "String" }
+							}
+						}
+					},
+					{
+						"kind": "FieldDefinition",
 						"name": { "kind": "Name", "value": "draft" },
 						"arguments": [],
 						"type": {
@@ -1194,6 +1215,14 @@
 					{
 						"kind": "InputValueDefinition",
 						"name": { "kind": "Name", "value": "tags" },
+						"type": {
+							"kind": "NamedType",
+							"name": { "kind": "Name", "value": "StringFilter" }
+						}
+					},
+					{
+						"kind": "InputValueDefinition",
+						"name": { "kind": "Name", "value": "postSlug" },
 						"type": {
 							"kind": "NamedType",
 							"name": { "kind": "Name", "value": "StringFilter" }
@@ -1642,6 +1671,14 @@
 								"kind": "NamedType",
 								"name": { "kind": "Name", "value": "String" }
 							}
+						}
+					},
+					{
+						"kind": "InputValueDefinition",
+						"name": { "kind": "Name", "value": "postSlug" },
+						"type": {
+							"kind": "NamedType",
+							"name": { "kind": "Name", "value": "String" }
 						}
 					},
 					{
