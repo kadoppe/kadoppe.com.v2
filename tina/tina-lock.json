@@ -24,6 +24,15 @@
 						"uid": false
 					},
 					{
+						"type": "string",
+						"name": "description",
+						"label": "Description",
+						"required": true,
+						"namespace": ["post", "description"],
+						"searchable": true,
+						"uid": false
+					},
+					{
 						"type": "datetime",
 						"name": "pubDatetime",
 						"label": "Date Posted",
@@ -937,6 +946,18 @@
 					},
 					{
 						"kind": "FieldDefinition",
+						"name": { "kind": "Name", "value": "description" },
+						"arguments": [],
+						"type": {
+							"kind": "NonNullType",
+							"type": {
+								"kind": "NamedType",
+								"name": { "kind": "Name", "value": "String" }
+							}
+						}
+					},
+					{
+						"kind": "FieldDefinition",
 						"name": { "kind": "Name", "value": "pubDatetime" },
 						"arguments": [],
 						"type": {
@@ -1191,6 +1212,14 @@
 					{
 						"kind": "InputValueDefinition",
 						"name": { "kind": "Name", "value": "title" },
+						"type": {
+							"kind": "NamedType",
+							"name": { "kind": "Name", "value": "StringFilter" }
+						}
+					},
+					{
+						"kind": "InputValueDefinition",
+						"name": { "kind": "Name", "value": "description" },
 						"type": {
 							"kind": "NamedType",
 							"name": { "kind": "Name", "value": "StringFilter" }
@@ -1641,6 +1670,14 @@
 					{
 						"kind": "InputValueDefinition",
 						"name": { "kind": "Name", "value": "title" },
+						"type": {
+							"kind": "NamedType",
+							"name": { "kind": "Name", "value": "String" }
+						}
+					},
+					{
+						"kind": "InputValueDefinition",
+						"name": { "kind": "Name", "value": "description" },
 						"type": {
 							"kind": "NamedType",
 							"name": { "kind": "Name", "value": "String" }
