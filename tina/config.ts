@@ -65,7 +65,7 @@ export default defineConfig({
 						type: "string",
 						label: "Slug",
 						name: "postSlug",
-						list: true,
+						required: true,
 					},
 					{
 						name: "draft",
