@@ -3,7 +3,7 @@
 	"version": "3.0.0",
 	"private": false,
 	"scripts": {
-		"dev": "astro dev",
+		"dev": "tinacms dev -c \"astro dev\"",
 		"start": "astro dev",
 		"build": "astro build && jampack ./dist",
 		"preview": "astro preview",
@@ -25,6 +25,7 @@
 		"remark-toc": "^9.0.0",
 		"satori": "^0.11.1",
 		"tailwindcss": "^3.4.11",
+		"tinacms": "2.2.8",
 		"typescript": "^5.5.3"
 	},
 	"devDependencies": {
@@ -35,7 +36,9 @@
 		"@biomejs/biome": "1.9.2",
 		"@divriots/jampack": "^0.24.4",
 		"@tailwindcss/typography": "^0.5.13",
+		"@tinacms/cli": "1.6.8",
 		"@types/github-slugger": "^2.0.0",
+		"@types/node": "22.7.4",
 		"@types/react": "^18.3.8",
 		"@typescript-eslint/parser": "^8.7.0",
 		"astro-eslint-parser": "^1.0.3",
