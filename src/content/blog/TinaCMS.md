@@ -5,4 +5,6 @@ author: kadoppe
 draft: true
 ---
 
-ブログの記事を書く CMS として
+このブログの記事を書くための CMS として [TinaCMS](https://tina.io/) を導入してみた。
+
+TinaCMS は Git-base なヘッドレスCMS。このブログは [Astro](https://astro.build/) を使って、
