@@ -9,16 +9,17 @@ Software Engineer / CTO at [WE UP Inc.](https://corp.weup.jp/) in Tokyo, Japan.
 
 ## Media
 
-- Blog
-  - 日々の仕事や生活のなかでの気付きや感じたこと、学んだことを書いています。
-- Podcast
-  - [人見知りプロダクト開発ラジオ](https://open.spotify.com/show/6teDTilmJzIkms5A0hT49U?si=66edd3b316e54d9c)
-    - [kantarock](https://x.com/kantarock) さんと二人で、人見知りとプロダクト開発をテーマにゆるくお話しています。
+### Blog
+日々の仕事や生活のなかでの気付きや感じたこと、学んだことを書いています。
+
+### 人見知りプロダクト開発ラジオ
+[kantarock](https://x.com/kantarock) さんと二人で、人見知りとプロダクト開発をテーマにゆるくお話しています。
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/6teDTilmJzIkms5A0hT49U?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## SNS
 
 - [X](https://x.com/kadoppe)
-- [GitHub](https://github.com/kadoppe)
 
 ## 経歴
 
