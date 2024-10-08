@@ -41,4 +41,4 @@ draft: false
 
 先日収録した「人見知りプロダクト開発ラジオ」でも、「チーム外との人とのコミュニケーション」というテーマでそういう話を取り上げたのだけど、自分も最近システム設計や意思決定を進める仕事に主にやっていたりもするので、自分自身が気を付ける目的も込めて書きました。
 
-<iframe style="border-radius:12px" src="[https://open.spotify.com/embed/episode/42TIhBHVtpjTccFDnShI4G?utm\_source=generator](https://open.spotify.com/embed/episode/42TIhBHVtpjTccFDnShI4G?utm_source=generator)" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/42TIhBHVtpjTccFDnShI4G?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
