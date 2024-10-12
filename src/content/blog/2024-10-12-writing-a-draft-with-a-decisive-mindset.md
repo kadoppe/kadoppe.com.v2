@@ -1,12 +1,12 @@
 ---
 title: 「これで決めに行く」という意識で「たたき」を書く
 description: 「たたき」のドキュメントを書くときに、「これで決めに行く」と言う意識をできるだけ込められるといいなと、と言う話。
-pubDatetime: '2024-10-11T15:00:00.000Z'
+pubDatetime: 2024-10-11T15:00:00.000Z
 author: kadoppe
 tags:
   - work
 postSlug: 2024-10-12-writing-a-draft-with-a-decisive-mindset
-draft: true
+draft: false
 ---
 
 「たたき」のドキュメントを書くときに、「これで決めに行く」と言う意識をできるだけ込められるといいなと、と言う話。
