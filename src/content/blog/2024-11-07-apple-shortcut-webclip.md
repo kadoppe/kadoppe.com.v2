@@ -3,7 +3,7 @@ title: AppleのショートカットアプリでWebクリップをGitHubのリ�
 description: >-
   Appleのショートカットを使って、iPhoneのWebブラウザで現在見ている記事のWebクリップ（本文のみをMarkdown形式に変換したもの）を、GitHub
   のプライベートリポジトリにサクッと保存できるようにした。
-pubDatetime: '2024-11-06T15:00:00.000Z'
+pubDatetime: 2024-11-06T15:00:00.000Z
 author: kadoppe
 postSlug: 2024-11-07-apple-shortcut-webclip
 draft: false
@@ -46,4 +46,4 @@ iPhoneのWebブラウザ（SafariやArcなど）で記事を読んでいると�
 
 元々はNotionにWebクリップを保存していたのだけれど、GitリポジトリでWebクリップを管理したいと思うきっかけがあり、ショートカットアプリを使って仕組みを作ってみた。
 
-ショートカットアプリは、慣れるといろんなことが簡単に自動化できて便利。
+ショートカットアプリは、最初は慣れるまで操作が難しいけど、いろんなAPIと組み合わせるといろんなことが簡単に自動化できて便利。
