@@ -1,12 +1,12 @@
 ---
 title: チームや個人の成長について改めて大事だと思うこと
 description: 最近、チームや個人の成長について考える機会があった。自分自身の成長についても、もっと加速させたいという気持ちがあり、改めて大事だと思うことを書いておく。
-pubDatetime: '2024-12-06T15:00:00.000Z'
+pubDatetime: 2024-12-06T15:00:00.000Z
 author: kadoppe
 tags:
   - essay
 postSlug: important-points-about-team-and-personal-growth
-draft: true
+draft: false
 ---
 
 最近、チームや個人の成長について考える機会があった。自分自身の成長についても、もっと加速させたいという気持ちがあり、改めて大事だと思うことを書いておく。
