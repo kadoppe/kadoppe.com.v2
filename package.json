@@ -30,7 +30,7 @@
 	},
 	"devDependencies": {
 		"@astrojs/partytown": "2.1.2",
-		"@astrojs/react": "4.0.0",
+		"@astrojs/react": "4.1.0",
 		"@astrojs/sitemap": "3.2.1",
 		"@astrojs/tailwind": "^5.1.2",
 		"@biomejs/biome": "1.9.4",
