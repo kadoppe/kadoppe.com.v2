@@ -39,15 +39,15 @@
 		"@tinacms/cli": "1.6.11",
 		"@types/github-slugger": "^2.0.0",
 		"@types/node": "22.10.1",
-		"@types/react": "^18.3.12",
+		"@types/react": "^19.0.1",
 		"@typescript-eslint/parser": "^8.15.0",
 		"astro-eslint-parser": "^1.1.0",
 		"commitizen": "^4.3.1",
 		"cz-conventional-changelog": "^3.3.0",
 		"husky": "^9.1.7",
 		"lint-staged": "^15.2.10",
-		"react": "^18.3.1",
-		"react-dom": "^18.3.1"
+		"react": "^19.0.0",
+		"react-dom": "^19.0.0"
 	},
 	"config": {
 		"commitizen": {
