@@ -5,7 +5,7 @@ pubDatetime: 2024-12-10T15:00:00.000Z
 author: kadoppe
 tags:
   - work
-  - ' startup'
+  - startup
   - essay
 postSlug: 2024-12-11-being-aware-that-what-i-see-now-is-not-everything
 draft: false
