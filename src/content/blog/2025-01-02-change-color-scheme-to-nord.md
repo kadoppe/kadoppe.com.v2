@@ -4,7 +4,7 @@ description: ここ数年、エディタやターミナルエミュレータの 
 pubDatetime: 2025-01-02T15:00:00.000Z
 author: kadoppe
 tags:
-  - essay
+  - productivity
 postSlug: 2025-01-02-change-color-scheme-to-nord
 draft: false
 ---
