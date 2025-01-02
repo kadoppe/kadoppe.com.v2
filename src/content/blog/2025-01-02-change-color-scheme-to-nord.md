@@ -1,5 +1,5 @@
 ---
-title: よく使うアプリケーションの　Color Scheme を Nord に変更してみた
+title: よく使うアプリケーションの Color Scheme を Nord に変更してみた
 description: ここ数年、エディタやターミナルエミュレータの Color Scheme として Dracula を使っていた。2025年になったこともあり、気分転換に新しい Scheme を使ってみることにした。
 pubDatetime: 2025-01-02T15:00:00.000Z
 author: kadoppe
