@@ -13,6 +13,9 @@ draft: false
 
 新しい Color Scheme として選んだのは [Nord](https://www.nordtheme.com/) という Color Scheme。 Dracula と比べて色が優しい（ローコントラストというのかな）。落ち着いた雰囲気が気に入ったのでこれにした。
 
+Cursor に設定した様子は以下。
+![Cursorの様子](../../../public/assets/blog/color-scheme-nord.png)
+
 Dracula ほどではないけれど、いろんなアプリケーション用の Color Scheme が豊富に用意されているのも決めて。自分は以下のアプリケーションに対して Nord を設定した。
 
 - Cursor (Visual Studio Code)
