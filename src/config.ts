@@ -7,7 +7,7 @@ export const SITE: Site = {
 	title: "kadoppe.com",
 	ogImage: "ogp.png",
 	lightAndDarkMode: false,
-	postPerPage: 5,
+	postPerPage: 10,
 };
 
 export const LOCALE = ["ja-JP"]; // set to [] to use the environment default
