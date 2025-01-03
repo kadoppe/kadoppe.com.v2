@@ -30,6 +30,8 @@ Dracula ほどではないけれど、いろんなアプリケーション用の
 - Obsidian
   - https://minimal.guide/home
   - ※ Minimal というテーマをインストールし、その上で選べる Color Scheme として Nord を選択しました。
+- Raycast
+  - https://ray.so/themes/joshua_burri/nord-dark
 
 最近、疲れ目がひどくて悩んでいるので、Dracula よりも目に優しそうな Scheme を選んだつもり。今の所気に入っている。実際にがっつりコードを書いていると不満が出てくるのかもしれないが、そこは自分で微調整とかできるといいのかな。
 
