@@ -27,6 +27,12 @@ export const SOCIALS: SocialObjects = [
 		active: true,
 	},
 	{
+		name: "Bluesky",
+		href: "https://bsky.app/profile/kadoppe.com",
+		linkTitle: `${SITE.title} on Bluesky`,
+		active: true,
+	},
+	{
 		name: "Sizume",
 		href: "https://sizu.me/kadoppe",
 		linkTitle: `${SITE.title} on Sizu.me`,
