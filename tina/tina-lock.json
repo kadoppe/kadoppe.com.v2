@@ -1,10 +1,10 @@
 {
 	"schema": {
 		"version": {
-			"fullVersion": "1.5.7",
+			"fullVersion": "1.5.10",
 			"major": "1",
 			"minor": "5",
-			"patch": "7"
+			"patch": "10"
 		},
 		"meta": { "flags": ["experimentalData"] },
 		"collections": [
@@ -177,6 +177,15 @@
 								"kind": "NamedType",
 								"name": { "kind": "Name", "value": "String" }
 							}
+						}
+					},
+					{
+						"kind": "FieldDefinition",
+						"name": { "kind": "Name", "value": "hasReferences" },
+						"arguments": [],
+						"type": {
+							"kind": "NamedType",
+							"name": { "kind": "Name", "value": "Boolean" }
 						}
 					},
 					{
