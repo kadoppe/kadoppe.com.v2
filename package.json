@@ -39,7 +39,7 @@
 		"@tinacms/cli": "1.8.0",
 		"@types/github-slugger": "^2.0.0",
 		"@types/node": "22.10.2",
-		"@types/react": "^19.0.6",
+		"@types/react": "^19.0.7",
 		"@typescript-eslint/parser": "^8.19.0",
 		"astro-eslint-parser": "^1.1.0",
 		"commitizen": "^4.3.1",
