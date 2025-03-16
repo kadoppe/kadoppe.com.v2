@@ -4,7 +4,6 @@ import "@styles/base.css";
 import { ViewTransitions } from "astro:transitions";
 
 const googleSiteVerification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
-
 export interface Props {
 	title?: string;
 	author?: string;
@@ -85,6 +84,16 @@ const socialImageURL = new URL(
       )
     }
     <ViewTransitions />
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CTVB3DHBT2"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CTVB3DHBT2');
+    </script>
 
     <script is:inline src="/toggle-theme.js"></script>
   </head>
