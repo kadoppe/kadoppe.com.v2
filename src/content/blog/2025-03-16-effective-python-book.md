@@ -42,7 +42,8 @@ Pythonらしいシンプルで読みやすいコード（＝Pythonicなコード
 昨今は AI・LLM を使ったVibe Codingと呼ばれる開発スタイルがどんどん盛り上がってきている。そういう環境下では、人間だけでなくLLMにとっても、シンプルで読みやすく、どういう状況で何を実現しようとしているのかが伝わりやすいコードを書くことが大切。
 
 以下の記事のように、Vibe Coding においては、少ないトークン数で多くのコンテキストが伝わる「トークン効率が高い」コードを書くこと、そしてそれができる言語を選ぶことの重要性を主張する人がいたりもする。
-[Ruby's Unexpected Comeback: How AI Coding Tools Give Ruby an Edge](Ruby's Unexpected Comeback: How AI Coding Tools Give Ruby an Edge)
+
+[Ruby's Unexpected Comeback: How AI Coding Tools Give Ruby an Edge](https://anykeyh.hashnode.dev/rubys-renaissance-in-the-ai-era)
 
 近い将来LLMが扱えるコンテキストの量がどんどん増えていくことで、トークン効率なんて気にしなくても良くなるかもしれない。少なくとも現状はある程度コンテキストの節約を意識しないと、LLMが意図しないコードを書いてくるリスクがある。
 
